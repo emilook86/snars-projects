@@ -1,0 +1,5 @@
+Data Source:
+tweets.csv file
+http://nodeassets.nbcnews.com/russian-twitter-trolls/tweets.csv
+users.csv file
+http://nodeassets.nbcnews.com/russian-twitter-trolls/users.csv
