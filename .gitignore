@@ -2,6 +2,8 @@
 *.tar
 *.tar.gz
 *.7z
+P13/data/*
+!P13/data/.gitkeep
 
 !P12/.gitkeep
 !P13/.gitkeep
