@@ -4,6 +4,7 @@
 *.7z
 P13/data/*
 !P13/data/.gitkeep
+!P13/data/processed/.gitkeep
 
 !P12/.gitkeep
 !P13/.gitkeep
